@@ -1,0 +1,166 @@
+html{
+    font-family: sans-serif;
+}
+
+h1{
+    font-weight: 900;
+}.side span{
+    color: rgb(228, 228, 186);
+    font-weight: 700;
+}
+.side button{
+    color: rgb(248, 180, 7);
+    box-sizing: border-box;
+    background-color: rgb(12, 133, 97);
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top:35px;
+    margin-bottom: 100px;
+    
+}
+
+.images img{
+    width: 100%;
+    
+   
+}
+.widget{
+    
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: rgb(243, 250, 211);
+       
+}
+.name {
+    color: rgb(207, 204, 193);
+    font-weight: 500;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.items{
+    text-align: center;
+}
+
+.number{
+    color: rgb(207, 204, 193);
+}
+.display{
+    display: flex;
+    text-align: left;
+    gap: 2rem;
+    padding: auto;
+}
+h4{
+    font-size: 18px;
+}
+.lower{
+    color: rgba(78, 78, 78,0.8);
+
+}
+.link{
+    background-color: rgb(243, 250, 211);
+ padding-top: 1px;
+ padding-bottom: 70px;
+
+}
+.deco{
+    text-decoration: none;
+    color: rgb(253, 183, 6);
+}
+.wraper{
+    background-color: rgb(63, 50, 50);
+    padding-bottom: 100px;
+    padding-top: 50px;
+    border-top: 30px;
+}
+.italic{
+    color: rgba(252, 240, 240,0.5);
+    font-size: 8px;
+}
+.back{
+    padding-bottom: 12px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 12px;
+}
+.white{
+    color: white;
+}
+.con{
+    color: rgba(247, 243, 243,0.4);
+}
+.bold{
+    font-weight: 700;
+    color: rgba(78, 78, 78,0.8);
+}
+.box{
+    padding-top: 7px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    margin-bottom: 20px;
+   background-color: rgb(63, 50, 50);
+    box-sizing: border-box;
+    
+}
+.area{
+    padding-left:115px;
+    padding-bottom: 30px;
+    
+}
+.names{
+   
+     color: rgb(218, 217, 217,0.8);
+    letter-spacing: 1px;
+    font-size: 16px;
+    line-height: 40px; 
+    margin-inline-end: 318px;
+    text-align: center;
+}
+.email{
+color: rgb(218, 217, 217,0.8);
+    letter-spacing: 1px;
+    font-size: 16px; 
+     line-height: 40px; 
+      margin-inline-end: 220px;
+   
+}
+.massage{
+color: rgb(218, 217, 217,0.8);
+    letter-spacing: 1px;
+    font-size: 16px; 
+     line-height: 40px; 
+   margin-inline-end: 266px;
+   
+}
+#MESSAGES{
+    background-color: rgb(63, 50, 50);
+}
+.Visit{
+color: rgba(165, 161, 161, 0.8);
+}
+
+.Copyright {
+    margin-bottom: 30px;
+    margin-top: 80px;
+    color: rgba(165, 161, 161, 0.8);
+}
+.center{
+    text-decoration: none;
+    color: rgb(253, 183, 6);
+}
+.last{
+    color: rgba(165, 161, 161, 0.9);
+}
+
+.twitter{
+    margin-right: 70px;
+}
+.face{
+    margin-right: 70px;
+}
+a,button:hover{
+    color: rgb(26, 221, 58);
+}
